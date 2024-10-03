@@ -1,0 +1,139 @@
+medico #1
+guido 
+rossi
+ortopedica
+Una visita ortopedica è una valutazione dedicata alla verifica dello stato di salute dell’apparato locomotore (ossa, muscoli e articolazioni) in termini di struttura e funzionalità.
+130
+0.0
+medico #2
+andrea 
+milano
+dermatologica
+La visita dermatologica è una visita medica finalizzata a valutare lo stato di salute della pelle del corpo.
+120
+medico #3
+nicola 
+catania
+odontoiatrica
+La visita odontoiatrica specialistica è un esame di natura medica finalizzato alla prevenzione, alla diagnosi e alla cura delle alterazioni patologiche della dentatura.
+120
+0.0
+medico #4
+giovanni 
+difonzo
+otorinolaringoiatrica
+La visita otorinolaringoiatrica è una visita medica che viene effettuata dal medico specialista in otorinolaringoiatria il cui obiettivo è quello di diagnosticare, escludere o monitorare la presenza di patologie che interessano orecchie, naso e gola.
+123
+0.0
+medico #5
+antonia 
+quarto
+ginecologica
+La visita ginecologica consiste nella valutazione degli organi genitali femminili (vagina, utero, ovaie e tube di Falloppio) e del seno.
+120
+0.0
+medico #6
+alessio 
+ancona
+otorinolaringoiatrica
+La visita otorinolaringoiatrica è una visita medica che viene effettuata dal medico specialista in otorinolaringoiatria il cui obiettivo è quello di diagnosticare, escludere o monitorare la presenza di patologie che interessano orecchie, naso e gola.
+120
+0.0
+medico #7
+luigi
+masi
+urologica
+La visita urologica è eseguita dallo specialista di competenza dell’apparato urinario: l’urologo. Durante la visita urologica si prendono in esame tutte le componenti dell’apparato urinario (reni, ureteri, vescica, uretra) e se ne valuta il corretto funzionamento. 
+110
+0.0
+medico #8
+rosa
+giannico
+dermatologica
+La visita dermatologica è una visita medica finalizzata a valutare lo stato di salute della pelle del corpo.
+115
+0.0
+medico #9
+luca 
+abete
+ginecologica
+La visita ginecologica consiste nella valutazione degli organi genitali femminili (vagina, utero, ovaie e tube di Falloppio) e del seno.
+120
+0.0
+medico #10
+claudia
+ancona
+gastroenterologica
+La visita gastroenterologica è la visita che viene eseguita per individuare le patologie di natura gastroenterologica che possono riguardare tutti gli organi che sono coinvolti nel processo digestivo: esofago, stomaco, intestino tenue, fegato, pancreas, colon, retto, canale anale, ecc.
+130
+0.0
+medico #11
+antonio
+pepe
+otorinolaringoiatrica
+La visita otorinolaringoiatrica è una visita medica che viene effettuata dal medico specialista in otorinolaringoiatria il cui obiettivo è quello di diagnosticare, escludere o monitorare la presenza di patologie che interessano orecchie, naso e gola.
+120
+0.0
+medico #12
+maria
+volta
+oculistica
+La visita oculistica consiste nella valutazione funzionale della capacità visiva e nell’esame biomicroscopico dei vari segmenti dell’occhio (anteriore e posteriore) al fine di determinare la presenza di eventuali fattori rischio o patologie oculari.
+108
+0.0
+medico #13
+giuseppe
+natale
+ortopedica
+Una visita ortopedica è una valutazione dedicata alla verifica dello stato di salute dell’apparato locomotore (ossa, muscoli e articolazioni) in termini di struttura e funzionalità.
+128
+0.0
+medico #14
+maria
+volta
+oculistica
+La visita oculistica consiste nella valutazione funzionale della capacità visiva e nell’esame biomicroscopico dei vari segmenti dell’occhio (anteriore e posteriore) al fine di determinare la presenza di eventuali fattori rischio o patologie oculari.
+108
+0.0
+medico #15
+simone
+tisci
+odontoiatrica
+La visita odontoiatrica specialistica è un esame di natura medica finalizzato alla prevenzione, alla diagnosi e alla cura delle alterazioni patologiche della dentatura.
+130
+0.0
+medico #16
+alessandra
+pugliese
+otorinolaringoiatrica
+La visita otorinolaringoiatrica è una visita medica che viene effettuata dal medico specialista in otorinolaringoiatria il cui obiettivo è quello di diagnosticare, escludere o monitorare la presenza di patologie che interessano orecchie, naso e gola.
+113
+0.0
+medico #17
+angelo
+varese
+gastroenterologica
+La visita gastroenterologica è la visita che viene eseguita per individuare le patologie di natura gastroenterologica che possono riguardare tutti gli organi che sono coinvolti nel processo digestivo: esofago, stomaco, intestino tenue, fegato, pancreas, colon, retto, canale anale, ecc.
+120.50
+0.0
+medico #18
+simona
+mori
+dermatologica
+La visita dermatologica è una visita medica finalizzata a valutare lo stato di salute della pelle del corpo.
+118
+0.0
+medico #19
+veronica
+siciliani
+odontoiatrica
+La visita odontoiatrica specialistica è un esame di natura medica finalizzato alla prevenzione, alla diagnosi e alla cura delle alterazioni patologiche della dentatura.
+128
+0.0
+medico #20
+gennaro
+esposito
+urologica
+La visita urologica è eseguita dallo specialista di competenza dell’apparato urinario: l’urologo. Durante la visita urologica si prendono in esame tutte le componenti dell’apparato urinario (reni, ureteri, vescica, uretra) e se ne valuta il corretto funzionamento. 
+116
+0.0

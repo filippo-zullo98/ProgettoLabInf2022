@@ -1,0 +1,19 @@
+INIZIO
+
+Inizializza una variabile intera che conterrà il numero di stelle che simboleggerà la media delle valutazioni per un medico specifico
+
+Finchè il valore di i è minore del numero dei medici
+  Scrivi: "Id del medico-> "
+  Scrivi: "Nome del medico-> "
+  Scrivi: "Cognome del medico-> "
+  Scrivi: "Tipo di visita medica-> "
+  Scrivi: "Descrizione visita-> "
+  Scrivi: "Prezzo visita medica-> "
+  Se il prezzo della visita è meggiore di zero
+   Assegna alla variabile intera stars il valore della media
+   Finchè il valore di j è minore di stars
+    Stampa una stella
+  Altrimenti
+   Scrivi: "Media valutazioni utenze-> " 
+
+FINE

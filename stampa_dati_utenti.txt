@@ -1,0 +1,14 @@
+INIZIO
+
+
+Finchè il valore di i è minore del numero degli utenti 
+  Scrivi: "CodFicale paziente-> "
+  Scrivi: "Nome Paziente-> "
+  Scrivi: "Cognome Paziente-> "
+  Scrivi: "Sesso Paziente-> "
+  Scrivi: "Giorno di nascita paziente-> "
+  Scrivi: "Mese di nascita paziente-> "
+  Scrivi: "Anno di nascita paziente-> "
+
+
+FINE

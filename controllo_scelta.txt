@@ -1,0 +1,18 @@
+INIZIO
+
+Inizializza a zero una variabile intera flag, che assumerà come unici valori 0 o 1 
+
+Se la scelta inserita in input dall'utente è la numero 1
+ Scrivi: "Caricamento dei dati memorizzati nel file di testo delle visite in corso..."
+ Assegna alla variabile flag il valore 1
+
+Altrimenti se la scelta dell'utente è la numero 2
+ Scrivi: "Uscita in corso..."
+ Assegna alla variabile flag il valore 1
+
+Se il valore del flag è uguale a zero
+ Scrivi: "Errore nella digitazione!" 
+
+restituisci il valore del flag alla funzione chiamante
+
+FINE

@@ -1,0 +1,22 @@
+INIZIO 
+
+Inizializza una variabile puntatore ad una struct di tipo file
+
+Accedi, attraverso una chiamata ad una funzione, al file di testo degli utenti in modalità di lettura
+Assegna al puntatore alla struct di tipo file il valore della funzione usata per accedere al file in scrittura
+Se il valore del puntatore è uguale a NULL
+  Scrivi: "Errore nell'apertura del file!"
+Altrimenti 
+ Finchè il valore di i è minore del numero di utenti  
+  assegna ad ogni elemento della struct utenti un record presente nel file degli utenti
+Chiudi il file
+
+Accedi, attraverso una chiamata ad una funzione, al file binario degli utenti in modalità di scrittura
+Assegna al puntatore alla struct di tipo file il valore della funzione usata per accedere al file in scrittura
+Se il valore del puntatore è uguale a NULL 
+  Scrivi: "Errore nell'apertura del file!"
+Altrimenti 
+  Effettua una chiamata ad una funzione che andrà a sovrascrivere i dati presenti nella struct utenti nel file binario degli utenti 
+Chiudi il file
+
+FINE

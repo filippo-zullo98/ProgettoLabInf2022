@@ -1,0 +1,30 @@
+INIZIO 
+
+Inizializza una variabile puntatore che punta ad una struct di tipo file 
+Inizializza un vettore di 20 elementi che conterrà la somma dei voti di tutti i medici
+Inizializza un vettore di 20 elementi che conterrà il numero di voti registrati per ogni singolo medico
+Inizializza un vettore di 20 elementi che conterrà la media dei voti di ogni singolo medico 
+
+Finchè il valore di i è minore del numero dei medici memorizzati nel file binario visite 
+  Finchè il valore di j è minore del numero delle valutazioni memorizzate nel file binario delle valutazioni
+    Se l'id del medico i-esimo presente nella struct medici è uguale all'id del medico j-esimo presente nel file delle valutazioni
+      Incrementa la somma delle valutazioni per quel medico, aggiungendogli quella appena rilevata
+       Incrementa il numero di voti memorizzati per quel medico specifico 
+
+Finchè il valore di i è minore del numero dei medici memorizzati nel file binario delle visite
+  Se il numero di voti memorizzati per un medico specifico è maggiore di zero
+    Poni la media dei voti uguale alla somma dei voti del medico i-esimo fratto il numero dei voti memorizzati per il medico i-esimo
+
+Finchè il valore di i è minore del numero di medici memorizzati nel file binario delle visite 
+  Poni la valutazione dell'utenza del medico i-esimo uguale alla media dei voti del medico i-esimo 
+
+Effettua una chiamata ad una funzione per accedere al file binario delle visite in modalità di scrittura 
+Assegna il valore restiutito dalla funzione al puntatore alla struct di tipo file 
+  Se il valore del puntatore alla struct di tipo file è NULL
+    Scrivi: "Errore nell'apertura del file!"
+  Altrimenti 
+    Sovrascrivi i dati presenti nella struct medici all'interno del file delle visite
+
+Chiudi il file 
+
+FINE

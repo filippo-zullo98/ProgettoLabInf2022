@@ -1,0 +1,18 @@
+INIZIO 
+
+Inizializza una variabile puntatore che punta ad una struct di tipo file 
+Inizializza una variabile intera che conterrà il numero di valutazioni memorizzate nel file binario delle valutazioni
+
+Effettua una chiamata ad una funzione per accedere al file binario delle valutazioni in modalità di lettura
+Assegna il valore restituito dalla funzione al puntatore alla struct di tipo file 
+Se il valore del puntatore è uguale a NULL
+ Scrivi: "Errore nell'apertura del file!"
+Altrimenti 
+ Poni il numero delle valutazioni attualmente memorizzate nel file binario delle valutazioni uguale a zero
+ Finchè viene letto un record all'interno del file binario delle valutazioni  
+   Incrementa il numero di valutazioni attualmente memorizzate all'interno del file binario delle valutazioni  
+
+Chiudi il file
+
+FINE 
+   

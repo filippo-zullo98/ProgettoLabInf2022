@@ -1,0 +1,18 @@
+INIZIO
+
+
+Finchè il valore di i è minore del numero delle valutazioni 
+  Scrivi: "CodFicale paziente-> "
+  Scrivi: "Identificatore Medico-> "
+  Scrivi: "Tipo di visita-> "
+  Scrivi: "Valutazione-> "
+  Scrivi: "Giorno Prenotazione-> "
+  Scrivi: "Mese Prenotazione-> "
+  Scrivi: "Anno Prenotazione-> "
+  Scrivi: "Ora Prenotazione-> "
+  Se i minuti della prenotazione sono uguali a zero
+   Scrivi: "Minuti della prenotazione-> (numero letto)0"
+  Altrimenti
+  Scrivi: "Minuti della prenotazione-> "
+
+FINE

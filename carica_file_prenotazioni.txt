@@ -1,0 +1,18 @@
+INIZIO 
+
+Inizializza una variabile puntatore che punta ad una struct di tipo file 
+Inizializza una variabile intera che conterrà il numero di medici memorizzati nel file binario delle prenotazioni
+
+Effettua una chiamata ad una funzione per accedere al file binario delle prenotazioni in modalità di lettura
+Assegna il valore restituito dalla funzione al puntatore alla struct di tipo file 
+Se il valore del puntatore è uguale a NULL
+ Scrivi: "Errore nell'apertura del file!"
+Altrimenti 
+ Poni il numero delle prenotazioni attualmente memorizzate nel file binario delle prenotazioni uguale a zero
+ Finchè viene letto un record all'interno del file binario delle prenotazioni
+   Incrementa il numero di prenotazioni attualmente memorizzate all'interno del file binario delle prenotazioni  
+
+Chiudi il file
+
+FINE 
+   

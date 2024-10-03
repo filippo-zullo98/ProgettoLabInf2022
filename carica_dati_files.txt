@@ -1,0 +1,106 @@
+INIZIO
+
+Inizializza un vettore di tipo medico grande quanto il numero dei medici
+Inizializza un vettore di tipo utenti grande quanto il numero di utenti 
+Inizializza un vettore di tipo prenotazioni grande quanto il numero di prenotazioni 
+Inizializza un vettore di tipo valutazioni grande quanto il numero di valutazioni
+Inizializza una variabile intera che conterrà il numero dell'operazione scelta dall'utente
+Inizializza una variabile intera che conterrà il risultato del controllo effettuato sulle visite
+Inizializza una variabile intera che conterrà il risultato del controllo effettuato sugli utenti
+Inizializza una variabile intera che conterrà il risultato del controllo effettuato sulle prenotazioni
+Inizializza una variabile intera che conterrà il risultato del controllo effettuato sulle valutazioni
+Inizializza una variabile intera che conterrà il numero di medici correntemente memorizzati nel file binario visite
+Inizializza una variabile intera che conterrà il numero di utenti correntemente memorizzati nel file binario utenti
+Inizializza una variabile intera che conterrà il numero di prenotazioni correntemente memorizzati nel file binario prenotazioni
+Inizializza una variabile intera che conterrà il numero di valutazioni correntemente memorizzati nel file binario valutazioni 
+
+
+
+Effettua una chiamata ad una funzione dedicata a controllare il numero di medici attualmente memorizzati nel file binario visite
+Poni il valore restuito dalla funzione dedicata al controllo del numero di medici uguale al numero di medici attualmente memorizzati
+Se il numero di medici attualmente memorizzati è uguale a zero
+  Finchè il valore del risultato del controllo effettuato sull'operazione da svolgere con il file delle visite è diverso da 1
+    Scrivi: "Il file visite non esiste"
+    Scrivi: "Intende procedere con la creazione del file visite ?"
+    Scrivi: "Inserisca 1 per continuare"
+    Scrivi: "Inserisca 2 per terminare"
+    Leggi: un numero che indichi l'operazione da svolgere
+    Effettua una chiamata ad una funzione dedicata al controllo sulla scelta inserita in input dall'utente
+  Se la scelta dell'operazione inserita dall'utente è la numero 1
+   Effettua una chiamata ad una funzione dedicata alla scrittura del file delle visite
+
+Altrimenti 
+ Scrivi: "Caricamento del file visite completato"
+ Scrivi: "Ci sono dei medici nel file"
+ Chiama una funzione dedicata al caricamento del file binario delle visite
+ Scrivi: "file correttamente caricato!" 
+
+
+
+Effettua una chiamata ad una funzione dedicata a controllare il numero di utenti attualmente memorizzati nel file binario utenti
+Poni il valore restuito dalla funzione dedicata al controllo del numero di utenti uguale al numero di utenti attualmente memorizzati
+Se il numero di utenti attualmente memorizzati è uguale a zero
+  Finchè il valore del risultato del controllo effettuato sull'operazione da svolgere con il file degli utenti è diverso da 1
+    Scrivi: "Il file utenti non esiste"
+    Scrivi: "Intende procedere con la creazione del file utenti ?"
+    Scrivi: "Inserisca 1 per continuare"
+    Scrivi: "Inserisca 2 per terminare"
+    Leggi: un numero che indichi l'operazione da svolgere
+    Effettua una chiamata ad una funzione dedicata al controllo sulla scelta inserita in input dall'utente
+  Se la scelta dell'operazione inserita dall'utente è la numero 1
+   Effettua una chiamata ad una funzione dedicata alla scrittura del file degli utenti
+
+Altrimenti 
+ Scrivi: "Caricamento del file utenti completato"
+ Scrivi: "Ci sono degli utenti nel file"
+ Chiama una funzione dedicata al caricamento del file binario degli utenti
+ Scrivi: "file correttamente caricato!"  
+
+
+
+Effettua una chiamata ad una funzione dedicata a controllare il numero di prenotazioni attualmente memorizzate nel file binario prenotazioni
+Poni il valore restuito dalla funzione dedicata al controllo del numero di prenotazioni uguale al numero di prenotazioni attualmente memorizzate
+Se il numero di prenotazioni attualmente memorizzate è uguale a zero
+  Finchè il valore del risultato del controllo effettuato sull'operazione da svolgere con il file delle prenotazioni è diverso da 1
+    Scrivi: "Il file prenotazioni non esiste"
+    Scrivi: "Intende procedere con la creazione del file prenotazioni ?"
+    Scrivi: "Inserisca 1 per continuare"
+    Scrivi: "Inserisca 2 per terminare"
+    Leggi: un numero che indichi l'operazione da svolgere
+    Effettua una chiamata ad una funzione dedicata al controllo sulla scelta inserita in input dall'utente
+  Se la scelta dell'operazione inserita dall'utente è la numero 1
+   Effettua una chiamata ad una funzione dedicata alla scrittura del file delle prenotazioni
+
+Altrimenti 
+ Scrivi: "Caricamento del file prenotazioni completato"
+ Scrivi: "Ci sono delle prenotazioni nel file"
+ Chiama una funzione dedicata al caricamento del file binario delle prenotazioni
+ Scrivi: "file correttamente caricato!"  
+
+
+
+Effettua una chiamata ad una funzione dedicata a controllare il numero di valutazioni attualmente memorizzate nel file binario valutazioni
+Poni il valore restuito dalla funzione dedicata al controllo del numero di valutazioni uguale al numero di valutazioni attualmente memorizzate
+Se il numero di valutazioni attualmente memorizzate è uguale a zero
+  Finchè il valore del risultato del controllo effettuato sull'operazione da svolgere con il file delle valutazioni è diverso da 1
+    Scrivi: "Il file valutazioni non esiste"
+    Scrivi: "Intende procedere con la creazione del file valutazioni ?"
+    Scrivi: "Inserisca 1 per continuare"
+    Scrivi: "Inserisca 2 per terminare"
+    Leggi: un numero che indichi l'operazione da svolgere
+    Effettua una chiamata ad una funzione dedicata al controllo sulla scelta inserita in input dall'utente
+  Se la scelta dell'operazione inserita dall'utente è la numero 1
+   Effettua una chiamata ad una funzione dedicata alla scrittura del file delle valutazioni
+   Effettua una chiamata ad una funzione dedicata all'aggiornamento delle valutazioni presenti nel file visite
+
+Altrimenti 
+ Scrivi: "Caricamento del file valutazioni completato"
+ Scrivi: "Ci sono delle valutazioni nel file"
+ Chiama una funzione dedicata al caricamento del file binario delle valutazioni
+ Scrivi: "file correttamente caricato!" 
+
+
+FINE 
+
+
+

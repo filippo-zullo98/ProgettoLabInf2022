@@ -1,0 +1,160 @@
+NTNMRC80A01A662X
+medico #4
+otorinolaringoiatrica
+11 
+01
+2022
+08
+00
+VRDLSN77D16A662N
+medico #10
+gastroenterologica
+09 
+02 
+2022
+10
+00
+RSSRRT98H49A225R
+medico #5
+ginecologica
+09 
+02 
+2022
+15
+00
+NZZDNC90R07I330C
+medico #19
+dermatologica
+03
+04
+2022
+09
+30
+CPTLRZ59R54A662S
+medico #14
+oculistica
+04 
+10 
+2022
+09
+00
+MSALSN00E45A662W
+medico #1
+ortopedica
+02
+10
+2022
+08
+30 
+BBRGTN76L27I330D
+medico #20
+urologica
+15
+01
+2022
+09
+00
+CLLDNL87C51A662M
+medico #8
+dermatologica
+27
+01
+2022
+15
+00
+VRRMNT52B69A225S
+medico #16
+otorinolaringoiatrica
+18
+06
+2022
+11
+30
+BRBGCR96S17E038Z
+medico #7
+urologica
+20
+02
+2022
+09
+00
+BRNCSM82M25L049Y
+medico #13
+ortopedica
+04
+05
+2022
+09
+30
+LCRFNC02T55E036V
+medico #2
+dermatologica
+20
+03
+2022
+10
+00
+CSTFNC77R01A662S
+medico #3
+odontoiatrica
+15
+09
+2022
+08
+30
+PRCPTR76D18A662R
+medico #14
+oculistica
+19
+12
+2022
+08
+00 
+RDDMTT80L12E038P
+medico #6
+otorinolaringoiatrica
+01
+02
+2022
+09
+30
+GBBLCU82D08A662V
+medico #17
+gastroenterologica
+02
+02
+2022
+08
+00 
+NCCLTR82B42E038W
+medico #9
+ginecologica
+02
+02
+2022
+12
+00
+NSTGND77L45A225Q
+medico #18
+odontoiatrica
+02
+09
+2022
+10
+30 
+STLMRA74H18I330C
+medico #20
+urologica
+29
+01
+2022
+08
+30
+NNVTMS03R20I330C
+medico #3
+odontoiatrica
+28
+06
+2022
+12
+00
